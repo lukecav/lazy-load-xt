@@ -42,6 +42,9 @@ Changing it to the following would lazy load the image:
 
 ## Changelog
 
+### 0.5.4
+* Bump WP version
+
 ### 0.5.3
 * Fix multisite activation error
 
